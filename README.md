@@ -9,6 +9,8 @@ Simple\ Interest = (Principal × Rate × Time) / 100
 \]
 
 ## Usage
+A simple change
+
 
 ```bash
 
